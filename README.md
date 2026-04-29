@@ -1,4 +1,3 @@
-# bynry-case-study
 # Bynry Backend Case Study
 
 ## Candidate Name
